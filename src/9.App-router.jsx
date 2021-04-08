@@ -29,12 +29,12 @@ export const Demo = () => {
                         <Link className="list-group-item" to="/home">
                             Home
                         </Link>
-                        {/* <Link className="list-group-item" to="/hang">
+                        <Link className="list-group-item" to="/hang">
                             hang
                         </Link>
                         <Link className="list-group-item" to="/aaaa">
                             aaaa
-                        </Link> */}
+                        </Link>
                     </div>
                 </div>
                 <div className="col-xs-6">
